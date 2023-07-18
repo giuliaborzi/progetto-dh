@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="BIBIT">
+		<author xml:id="BIBIT-18">
+			<text xml:id="BIBIT-18-01">
+				<dc:title>Autoritratto</dc:title>
+				<dc:creator>Bice Lazzari</dc:creator>
+				<dc:date>1929</dc:date>
+				<dc:subject>Olio su cartone pressato</dc:subject>
+				<dc:description>Autoritratto di giovane donna</dc:description>
+				<dc:type>Dipinto</dc:type>
+				<dc:format>Cartone</dc:format>
+				<dc:language>ita</dc:language>
+				</text>
+		</author>
+	</library>

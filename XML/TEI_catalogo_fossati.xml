@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Bice Lazzari. Opere 1925 - 1981</title>
+			<respStmt>
+				<resp>editor</resp>
+				<name xml:id="EV">Paolo Fossati, Alberto Veca</name>
+			</respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<p>Not for distribution.</p>
+		</publicationStmt>
+	</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<div type="dedication">
+			<p>In memory of Lisa Wheeman.</p>
+		</div>
+		<titlePage>
+			<docAuthor>Roy Offire</docAuthor>
+			<docTitle>
+				<titlePart type="main">The Strange Adventures of Dr. Burt Diddledygook</titlePart>
+				<titlePart type="sub">Wanderings in the life of a buoyant academic</titlePart>
+			</docTitle>
+		<byline>Transcribed from the diaries.</byline>
+			<docEdition>First Edition</docEdition>
+			<docImprint> <pubPlace>Kirkcaldy</pubPlace>, <publisher>Bucket Books</publisher>,
+				<docDate>1972</docDate>
+			</docImprint>
+		</titlePage>
+	<div type="contents">
+		<head>Table of Contents</head>
+		<list>
+			<item>I. The Decision</item>
+			<item>II. The Fuss</item>
+			<item>III. The Celebration</item>
+		</list>
+	</div>
+	</front>
+<body>
+	<p n="1">For the first time in <date from="1935" to="1960">twenty-five years</date>, <choice>
+		<abbr type="title">Dr</abbr>
+		<expan>Doctor</expan>
+		</choice> Burt Diddledygook decided not to turn up to the annual meeting of the Royal Academy of Whoopledywhaa<index>
+		<term>Academy, Royal</term>
+		</index> (<abbr type="acronym">RAW</abbr>). <gap reason="irrelevant" unit="words" extent="32">
+		<desc>Commentary on the founding charter of the RAW</desc>
+		</gap> It was a sunny day in <date notBefore="1960-09-15" notAfter="1960-09-30"> <add place="supralinear">late</add> September 1960</date> bang on <time when="12:00:00">noontime</time> and <abbr type="title">Dr</abbr> Burt was looking forward to a <subst>
+		<del rend="overstrike">walk</del>
+		<add place="infralinear">stroll</add>
+		</subst> in the park instead. He hoped his fellow members of the <abbr type="acronym">RAW</abbr> weren't even going to notice his absence.</p>
+		<p n="2">Or worse, what would happen when another Academy member had decided to go for a stroll in the park instead? He quickly thought up several possible plans:</p>
+		<list>
+		<item>hide behind a tree and duck</item>
+		<item>catch the duck as subject material for a speech on the annual meeting</item>
+		<item>be frank, meet his colleague, and <list>
+		<item>1. pat him on the shoulder</item>
+		<item>2. tell a joke</item>
+		<item>3. hand him the duck</item>
+		<item>4. offer him a sip from his <measure type="volume" quantity="2.5" unit="litre" commodity="coca- cola">2.5 l bottle of coke</measure> </item>
+		<item>5. pull his beard</item>
+	</list> </item>
+</list>
+<p n="3">Or maybe he could still announce his absence from the meeting by sending an antedated letter of apology to <address>
+	<name type="person">Professor M. Orkelidius</name>
+	<name type="organisation">Royal Academy of Whoopledywhaa</name>
+	<street>Queenstreet 81</street>
+	<postCode>TB90 00E</postCode>
+	<name type="city">Whoopledywhaa</name>
+	</address> </p>
+<p n="4" xml:lang="en">'Plenty of options', he thought, sat on a bench and opened the book he had taken from the Whoopledywhaaian National Library<index>
+	<term>Library, National</term>
+	</index> <note n="1" place="foot" type="authorial">The National Library of Whoopledywhaa was found in 1886 with the acquisition of the library of the late King Anthony.</note>. It was titled <title type="m" rend="italics">While <choice>		
+	<orig>thou</orig>
+	<reg resp="#EV">you</reg>
+	</choice> <choice>
+	<orig>art</orig>
+	<reg resp="#EV">are</reg>
+	</choice> here</title>, by Sir Edmund
+	<choice>
+	<corr>Peckwood</corr>
+	<sic>Petwood</sic>
+	</choice>
+	<note type="editorial" resp="EV">The manuscript reads 'Petwood'.</note>. <figure n="2">
+	<figure n="2a">
+	<graphic url="wtatcoverfront.jpg"/>
+	<head>Front</head>
+	</figure>
+	<figure n="2b">
+	<graphic url="wtatcoverback.jpg"/>
+	<head>Back</head>
+	</figure>
+	<head>Figure 2:</head>
+<p>Front and back cover of the first print edition of "While thou art here" by Sir Edmund Peckwood from the rare books collection of the National Library of Whoopledywhaa.</p>
+</figure>While reading the first sentence, his placid expression turned to a certain <hi xml:lang="fr" rend="italics">je ne sais quoi</hi>: 'For the first time in twenty-five years,
+<choice>
+<abbr type="title">Dr</abbr>
+<expan>Doctor</expan>
+</choice>
+Burt Diddledygook decided not to turn up to the annual meeting of the
+<name type="organisation" rend="italics">Royal Academy of Whoopledywhaa</name>
+<index>
+<term>Academy, Royal</term>
+</index>.'</p>
+</body>
+<back>
+<div type="colophon">
+<p>Typeset in Haselfoot 37 and Henry 8. Printed and bound by Whistleshout, South Africa.</p>
+</div>
+</back>
+</text>
+</TEI>

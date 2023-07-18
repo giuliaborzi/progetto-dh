@@ -1,0 +1,129 @@
+/* navbar */
+
+.form-navbar { 
+	position:absolute; 
+	right: 30px }
+
+/* carousel */
+
+.img-box {
+	width: 100%;
+	height: 650px;
+	object-fit: cover;
+	
+}
+
+.text-block {   
+	position: absolute;
+  	top: 350px;
+ 	left: 0px;
+ 	text-align: left;
+ 	width:600px;
+ 	height: 200px;
+ 	background-color: #fff;
+ 	color: #000;
+ 	padding-left: 20px;
+ 	opacity: 65%; }
+
+ /* card home page*/
+
+
+.card-title-home {
+	height: 30px;
+	text-align: center;
+
+}
+
+.card-img-top {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+ }
+
+
+/* buttons */
+
+.btn-primary {
+	background-color: lightsteelblue;
+
+}
+
+.btn-primary:hover {
+	background-color: lightslategray !important;
+}
+
+/* banner tutte le opere */
+
+.banner-background {
+	background-color: lightblue;
+	height: 100px;
+}
+
+.banner-text {
+	position: absolute;
+	left: 30px;
+}
+
+/* checkbox */
+
+.input[type="checkbox"] {
+	accent-color: lightsteelblue;
+}
+
+/* item immagini*/
+
+
+* {box-sizing: border-box;}
+
+.img-zoom-container {
+  position: relative;
+}
+
+.img-zoom-lens {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  /*set the size of the lens:*/
+  width: 50px;
+  height: 50px;
+}
+
+.img-zoom-result {
+  border: 1px solid #d4d4d4;
+  /*set the size of the result div:*/
+  width: 300px;
+  height: 300px;
+}
+
+/* footer */
+
+
+.footer {
+	background-color: lightblue;
+}
+
+.form-control {
+	border-radius: 50px;
+}
+
+
+/* back to top */
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 20px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: lightblue; /* Remove outline */
+  background-color: lightsteelblue; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 14px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
