@@ -17,6 +17,9 @@
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css"/>
 		<link rel="stylesheet" type="text/css" href="style/style.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 	</head>
 	<body>
 		<header>
@@ -191,13 +194,16 @@
 				</div>
 			</div>		
 		</div>
-		<ul class="pagination justify-content-center">
-		  <li class="page-item"><a class="page-link" href="#"><</a></li>
-		  <li class="page-item active"><a class="page-link" href="#">1</a></li>
-		  <li class="page-item"><a class="page-link" href="#">2</a></li>
-		  <li class="page-item"><a class="page-link" href="#">3</a></li>
-		  <li class="page-item"><a class="page-link" href="#">></a></li>
-		</ul>
+		<div class="pagination justify-content-center">
+		  <a href="#">&laquo;</a>
+		  <a class="active" href="#">1</a>
+		  <a href="#">2</a>
+		  <a href="#">3</a>
+		  <a href="#">4</a>
+		  <a href="#">5</a>
+		  <a href="#">6</a>
+		  <a href="#">&raquo;</a>
+		</div>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><b>TOP</b></button>
 
@@ -233,6 +239,9 @@
 					</div>
 				</div>
 			</div>
+			<div class="container-fluid">
+            	<p class="mb-0 pb-1 pt-1 text-center">© Copyright (c) 2023 Giulia Borzi | Università di Bologna</p>
+       		</div>
 		</footer>
 
 		<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
