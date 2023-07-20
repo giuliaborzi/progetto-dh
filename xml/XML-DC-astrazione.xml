@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="BIBIT">
+		<author xml:id="BIBIT-18">
+			<text xml:id="BIBIT-18-01">
+				<dc:title>Astrazione di una linea n.2</dc:title>
+				<dc:creator>Bice Lazzari</dc:creator>
+				<dc:date>1925</dc:date>
+				<dc:subject>Disegno su carta</dc:subject>
+				<dc:description>Disegno astratto, insieme di linee geometriche</dc:description>
+				<dc:type>Disegno</dc:type>
+				<dc:format>Carta</dc:format>
+				<dc:language>ita</dc:language>
+				</text>
+		</author>
+	</library>
